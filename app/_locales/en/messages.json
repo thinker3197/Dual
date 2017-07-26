@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Dual",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "The ultimate split screen extension for chrome",
+    "description": "The description of the application"
+  }
+}
